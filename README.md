@@ -8,7 +8,6 @@ I have knowladge about these skills👇
 
 - HTML5
 - CSS3
-- Bootstrap
 - Javascript
 - Git and Githup 😉
 
