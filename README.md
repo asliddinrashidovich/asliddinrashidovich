@@ -5,11 +5,13 @@
 - 🌍 I have been living in Uzbekistan, Surkxandarya
 
 I have knowladge about these skills👇
-
+<img src="![image](https://github.com/asliddinrashidovich/asliddinrashidovich/assets/157356679/5e6f7760-0821-4621-9fd8-60573639abc7)
+">
 - HTML5
 - CSS3
 - Bootstrap 5
 - Javascript
 - Git and Githup 😉
+- Figma
 
 Think global, Act local
